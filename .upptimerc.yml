@@ -25,6 +25,6 @@ status-website:
 notifications:
   email:
     to: ahabdelnabi@eand.com
-
+ 
 workflowSchedule:
   uptime: "*/5 * * * *"
