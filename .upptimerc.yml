@@ -16,7 +16,7 @@ sites:
     maxResponseTime: 10000
 
 status-website:
-  cname: status-drones.YOURDOMAIN.com   # Remove if no custom domain
+  cname:    # Remove if no custom domain
   baseUrl: /drones-status              # If default GitHub domain, use this
   name: GCAA Drones Status
   introTitle: "GCAA Drones Portal Status"
