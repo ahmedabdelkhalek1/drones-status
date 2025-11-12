@@ -30,5 +30,3 @@ workflowSchedule:
   responseTime: "*/5 * * * *"      # Response time graphs updated every 5 minutes
   summary: "0 0 * * *"
   staticSite: "0 1 * * *"
-  graphs: "*/5 * * * *"            # Graph generation every 5 minutes
-
