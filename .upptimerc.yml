@@ -26,4 +26,9 @@ notifications:
     to: ahabdelnabi@eand.com
  
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "*/5 * * * *"            # Uptime checks every 5 minutes
+  responseTime: "*/5 * * * *"      # Response time graphs updated every 5 minutes
+  summary: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  graphs: "*/5 * * * *"            # Graph generation every 5 minutes
+
