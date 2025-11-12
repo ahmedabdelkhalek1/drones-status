@@ -14,6 +14,12 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
+  - name: Ahmed
+    url: https://api.ahmed.ah/
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
 
 status-website:
   baseUrl: /drones-status              # If default GitHub domain, use this
