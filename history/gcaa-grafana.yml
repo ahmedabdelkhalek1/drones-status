@@ -1,7 +1,7 @@
 url: https://api.drones.gov.ae/grafana/login
 status: up
 code: 200
-responseTime: 1386
-lastUpdated: 2026-01-23T12:27:54.231Z
+responseTime: 1245
+lastUpdated: 2026-01-23T13:26:48.139Z
 startTime: 2025-11-12T11:36:08.428Z
 generator: Upptime <https://github.com/upptime/upptime>
